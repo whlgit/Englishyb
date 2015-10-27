@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 音标id数组 -->
+
+    <string-array name="vowel_1_lists_hl">
+
+        <item>vowel_01111</item>
+        <item>vowel_01112</item>
+        <item>vowel_01113</item>
+        <item>vowel_01114</item>
+        <item>vowel_01115</item>
+        <item>vowel_01118</item>
+        <item>vowel_01119</item>
+
+    </string-array>
+
+    <string-array name="vowel_2_lists_hl">
+
+        <item>vowel_01121</item>
+        <item>vowel_01122</item>
+        <item>vowel_01123</item>
+        <item>vowel_01124</item>
+        <item>vowel_01125</item>
+
+    </string-array>
+
+    <string-array name="vowel_3_lists_hl">
+
+        <item>vowel_01131</item>
+        <item>vowel_01132</item>
+        <item>vowel_01133</item>
+        <item>vowel_01134</item>
+        <item>vowel_01135</item>
+        <item>vowel_01136</item>
+        <item>vowel_01137</item>
+        <item>vowel_01138</item>
+
+    </string-array>
+
+    <string-array name="consonant_1_lists_hl">
+
+        <item>consonant_02111</item>
+        <item>consonant_02112</item>
+        <item>consonant_02113</item>
+
+        <item>consonant_02211</item>
+        <item>consonant_02212</item>
+        <item>consonant_02213</item>
+        <item>consonant_02214</item>
+        <item>consonant_02215</item>
+
+        <item>consonant_02311</item>
+        <item>consonant_02312</item>
+        <item>consonant_02313</item>
+
+    </string-array>
+
+    <string-array name="consonant_2_lists_hl">
+
+        <item>consonant_02121</item>
+        <item>consonant_02122</item>
+        <item>consonant_02123</item>
+
+        <item>consonant_02221</item>
+        <item>consonant_02222</item>
+        <item>consonant_02223</item>
+        <item>consonant_02224</item>
+
+        <item>consonant_02321</item>
+        <item>consonant_02322</item>
+        <item>consonant_02323</item>
+
+        <item>consonant_02521</item>
+        <item>consonant_02522</item>
+        <item>consonant_02523</item>
+
+        <item>consonant_02621</item>
+        <item>consonant_02622</item>
+        <item>consonant_02721</item>
+        <item>consonant_02722</item>
+
+    </string-array>
+
+</resources>

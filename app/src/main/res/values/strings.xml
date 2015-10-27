@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">English</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="vowel_name_hl">元音</string>
+    <string name="consonant_name_hl">辅音</string>
+    <string name="vowel_type_1_hl">短元音</string>
+    <string name="vowel_type_2_hl">长元音</string>
+    <string name="vowel_type_3_hl">双元音</string>
+    <string name="consonant_type_1_hl">清辅音</string>
+    <string name="consonant_type_2_hl">浊辅音</string>
+
+
+</resources>
